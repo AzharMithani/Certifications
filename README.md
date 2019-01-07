@@ -1,5 +1,5 @@
 # Certifications
--
+
 # All of my certifications archive
 
 - Machine Learning                                      
