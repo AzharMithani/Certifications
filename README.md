@@ -38,7 +38,19 @@
    - Certified, Grade: 100.0% (Even I was surprised!)
    - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/Z6E6XFDPG2EF)
    
-     
+- Developing Data Products by Johns Hopkins University                                    
+   - Certified, Grade: 97.3% 
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/TWFVL3RA5EA6)
+   
+- Applied Machine Learning in Python by University of Michigan                                    
+   - Certified, Grade: 94.7% 
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/3CNHHXUKQWU8)
+       
+- Text Retrieval and Search Engines by University of Illinois at Urbana-Champaign                                    
+   - Certified, Grade: 94.5% 
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/63BKD66EB9T5)
+       
+
      
      
 
