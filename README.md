@@ -58,12 +58,7 @@
    - Certified, Grade: 94.1% 
    - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/KQYHU68SGU7L)
    
-- Applied Machine Learning in Python by University of Michigan
-   - Certified, Grade: 94.7% 
-   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/3CNHHXUKQWU8)
-  
-    
- 
+
      
      
 
