@@ -50,7 +50,20 @@
    - Certified, Grade: 94.5% 
    - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/63BKD66EB9T5)
        
-
+- Applied Social Network Analysis in Python by University of Michigan
+- Certified, Grade: 92.3% 
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/XT5SQ7T7GAQD)
+   
+- Applied Text Mining in Python by University of Michigan
+- Certified, Grade: 94.1% 
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/KQYHU68SGU7L)
+   
+- Applied Machine Learning in Python by University of Michigan
+- Certified, Grade: 94.7% 
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/3CNHHXUKQWU8)
+  
+    
+ 
      
      
 
