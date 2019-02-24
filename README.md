@@ -1,11 +1,11 @@
 # Certifications - Archive of some of my certifications
 
-# Google Cloud Training
+# 1) Google Cloud Training
 
 - Public profile with all completed Courses and Quests
    - [Official Public profile Link](https://google.qwiklabs.com/public_profiles/d681551d-75cd-41a5-83d3-2701ab7952dd)
 
-# Coursera
+# 2) Coursera
 
 - Machine Learning by Stanford University                                    
    - Certified, Grade: 96.4%
