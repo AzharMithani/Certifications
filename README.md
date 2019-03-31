@@ -25,7 +25,7 @@
 
  - Customer Analytics by University of Pennsylvania                                      
    - Certified, Grade: 92.0%
-   - [Official Link](https://www.coursera.org/account/accomplishments/verify/VCWK5HVPQ9RV)
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/VCWK5HVPQ9RV)
 
 - Data Visualization with Python by IBM                                      
    - Certified, Grade: 94.0%
@@ -63,6 +63,23 @@
    - Certified, Grade: 94.1% 
    - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/KQYHU68SGU7L)
    
+- Mathematics for Machine Learning: Linear Algebra by Imperial College London
+   - Certified, Grade: 100% 
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/LT25VT787Q4X)
+   
+- Mathematics for Machine Learning: Multivariate Calculus by Imperial College London
+   - Certified, Grade: 97.5% 
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/TG6PJYPQWAY6)
+   
+- Probabilistic Graphical Models 1: Representation by Stanford University
+   - Certified, Grade: 96.4% 
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/A626XGTBERKZ)
+     
+- Probabilistic Graphical Models 2: Inference by Stanford University
+   - Certified, Grade: 90% 
+   - [Official Certification Link](https://www.coursera.org/account/accomplishments/verify/FQSE9QLA56GC)
+     
+     
 
      
      
